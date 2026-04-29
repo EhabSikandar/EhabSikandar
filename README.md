@@ -18,7 +18,7 @@ I work on:
 
 ## Connect With Me
 
-* LinkedIn: [Your LinkedIn]
+* LinkedIn: [https://www.linkedin.com/in/muhammad-ehab-sikandar/]
 * Portfolio: [Your Portfolio Link]
 
 <!---
